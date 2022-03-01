@@ -16,7 +16,9 @@ How to Use the Project
 - Recommend page: input the same radius of operation and add the type of kitchens you would like to serve (or leave "All" for no preferences)
 
 Credits
+
 aside from the contributors [Ayelen Klas](https://github.com/ayelenklas), [Malte Bernaud](https://github.com/mberneaud), [Nicole Dressler](https://github.com/ndressler) and myself, a special thanks goes to [Dominik Wagner](https://github.com/domzae) who's been our mentor throughout the project and, of course, to [Le Wagon!](https://github.com/lewagon)
 
 How to Contribute to the Project:
+
 if you like what you see we're currently looking for a mentor in order to create a roadmap. Ideally we would like to see GCT scale on a global level beign able to produce on demand analysis for each main metropoli in the world, and then to apply to different industries too.
